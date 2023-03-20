@@ -22,7 +22,7 @@
 
 .imagen_card {
   width: 200px;
-  height: 300px;
+  height: 250px;
 }
 
 .cardProfesor {
@@ -36,11 +36,11 @@
 
 .imagenDetalle {
   width: 100%;
-  height: 200px;
+  height: 300px;
 }
 
-h1{
-  font-family: 'Bebas Neue', cursive;
+* {
+  font-family: "Open Sans", sans-serif;
 }
 
 /*!
@@ -63,7 +63,7 @@ h1{
   --bs-black: #000;
   --bs-white: #fff;
   --bs-gray: #6c757d;
-  --bs-gray-dark: #343a40; 
+  --bs-gray-dark: #343a40;
   --bs-gray-100: #f8f9fa;
   --bs-gray-200: #e9ecef;
   --bs-gray-300: #dee2e6;
@@ -160,12 +160,10 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
 
 h1, .h1 {
   font-size: calc(1.375rem + 1.5vw);
-  
 }
 @media (min-width: 1200px) {
   h1, .h1 {
     font-size: 2.5rem;
-    
   }
 }
 
@@ -10865,4 +10863,14 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
-}/*# sourceMappingURL=estilo.css.map */
+}
+/*# sourceMappingURL=estilo.css.map */
+.fondo{
+  background-color: #144c70;
+}
+
+
+
+
+
+

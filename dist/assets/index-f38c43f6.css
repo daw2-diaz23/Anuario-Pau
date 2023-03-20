@@ -63,7 +63,7 @@ h1{
   --bs-black: #000;
   --bs-white: #fff;
   --bs-gray: #6c757d;
-  --bs-gray-dark: #343a40; 
+  --bs-gray-dark: #343a40;
   --bs-gray-100: #f8f9fa;
   --bs-gray-200: #e9ecef;
   --bs-gray-300: #dee2e6;
@@ -10865,4 +10865,12 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
-}/*# sourceMappingURL=estilo.css.map */
+}
+/*# sourceMappingURL=estilo.css.map */
+.fondo{
+  background-color: #144c70;
+}
+h1{
+  font-family: 'Bebas Neue', cursive;
+}
+
