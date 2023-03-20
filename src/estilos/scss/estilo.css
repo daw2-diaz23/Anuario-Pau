@@ -1,39 +1,16 @@
-
-.logo {
-  margin-top: 0.5%;
-  margin-left: 1%;
-  width: 150px;
-  height: 50px;
-}
 .carta{
   width: 15rem;
   border: white;
 }
-.icono-perfil{
-  color: white;
-  width: 20px;
-  margin-right: 5px;
-}
-.imagenLogo {
-  width: 100px;
-  height: 50px;
-  padding-right: 20px;
-}
-
-.imagen_card {
-  width: 200px;
-  height: 300px;
-}
-
-.cardProfesor {
+.cartaProfesor {
   width: 240px;
   height: 320px;
 }
 
-.espacioExpediente {
-  padding-bottom: 65px;
+.imagencarta {
+  width: 200px;
+  height: 300px;
 }
-
 .imagenDetalle {
   width: 100%;
   height: 200px;
